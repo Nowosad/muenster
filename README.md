@@ -21,7 +21,7 @@ pak::pak("Nowosad/muenster")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is an advanced example which shows you how to solve a common problem:
 
 ``` r
 library(muenster)
