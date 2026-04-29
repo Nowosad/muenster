@@ -15,8 +15,14 @@ A value in km
 \description{
 This function converts the values from miles to kilometers.
 }
+\details{
+If you use this and argument, this and that happens...
+}
 \examples{
 miles_to_km(2)
 miles_to_km(0)
 miles_to_km(100)
+}
+\references{
+Smith, J., 2024, Afdsfdsfs, ADfsds, doi:
 }

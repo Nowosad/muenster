@@ -7,6 +7,12 @@
 #' @returns A value in km
 #' @export
 #'
+#' @references Smith, J., 2024, Afdsfdsfs, ADfsds, doi:
+#'
+#' @details
+#' If you use this and argument, this and that happens...
+#'
+#'
 #' @examples
 #' miles_to_km(2)
 #' miles_to_km(0)
