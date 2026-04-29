@@ -21,4 +21,5 @@ from Fahrenheit to Celsius.
 temp_conversion(75)
 temp_conversion(110)
 temp_conversion(0)
+temp_conversion(pollen_count$birch)
 }
