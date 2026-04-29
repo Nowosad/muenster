@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of muenster is to teach how to make R packages!
+The goal of muenster is to teach how to make R packages.
 
 ## Installation
 
