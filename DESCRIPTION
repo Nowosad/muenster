@@ -1,6 +1,6 @@
 Package: muenster
 Title: How To Make R Packages
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person("Jakub", "Nowosad", , "first.last@example.com", role = c("aut", "cre"))
 Description: It teaches how to make R packages. This is based on a few simple functions, etc.

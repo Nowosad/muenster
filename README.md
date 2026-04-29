@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of muenster is to teach how to make R packages.
+The goal of muenster is to teach how to make R packages!
 
 ## Installation
 
@@ -21,7 +21,7 @@ pak::pak("Nowosad/muenster")
 
 ## Example
 
-This is an advanced example which shows you how to solve a common problem:
+This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(muenster)
