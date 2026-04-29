@@ -17,4 +17,6 @@ This function converts the values from miles to kilometers.
 }
 \examples{
 miles_to_km(2)
+miles_to_km(0)
+miles_to_km(100)
 }

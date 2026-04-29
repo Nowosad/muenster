@@ -9,6 +9,8 @@
 #'
 #' @examples
 #' miles_to_km(2)
+#' miles_to_km(0)
+#' miles_to_km(100)
 miles_to_km = function(x){
   x * 1.609
 }
